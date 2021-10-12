@@ -6,8 +6,8 @@ $discord="SuPrSh";
 $biostack="Genomics";
 $language="perl";
 
-print "My name is $name and below is my information \n";
-print "* Email: $email \n";
-print "* Discord: $discord \n";
-print "I am using $language to built this script \s";
-print "and my field of interest is $biostack";
+print "Name: $name\n";
+print "Email id: $email \n";
+print "Slack id: $discord \n";
+print "Language: $language \n";
+print "Biostack: $biostack";
