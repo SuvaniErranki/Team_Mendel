@@ -2,8 +2,8 @@
 
 $name="Surya";
 $email="suryapdsharma\@gmail.com";
-$discord="SuPrSh";
-$slack="Genomics";
+$slack="SuPrSh";
+$biostack="Genomics";
 $language="perl";
 
 print "Name:$name, email-id:$email, slack-id:$slack, language:$language, biostack:$biostack";
