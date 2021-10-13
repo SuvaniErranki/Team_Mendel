@@ -3,6 +3,8 @@
 ## Team Mendel
 
 HackBio is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.
+We are a team of 10 people from different parts of the world met here for the internship.
+
 
 ### 1. Sai Suvani Erranki
 
