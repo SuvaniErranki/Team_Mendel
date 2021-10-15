@@ -27,7 +27,7 @@ I recently graduated from the University of Calcutta in India with a Master's in
 
 ### 3. Taofeek Mardiyyah
 
-![Snapchat-739900562](https://user-images.githubusercontent.com/92341910/137541835-907e3d22-d1b3-4159-849e-698d2f1f63d3.jpg)
+![Snapchat-739900562](https://user-images.githubusercontent.com/92341910/137551668-c25ff29e-6b8b-4d61-b211-b89d51dcfdd5.jpg)
 
 
 I'm currently a Cell Biology and Genetics student from the University of Lagos, Nigeria. My areas of interest are in Molecular Biology, Genetics and Bioinformatics. You can always connect with me on LinkedIn:https://www.linkedin.com/in/mardiyyah-taofeek-1045a8215/  
