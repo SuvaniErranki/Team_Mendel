@@ -30,4 +30,4 @@ I recently graduated from the University of Calcutta in India with a Master's in
 
 
 I'm currently a Cell Biology and Genetics student from the University of Lagos, Nigeria. My areas of interest are in Molecular Biology, Genetics and Bioinformatics. I love to take up all learning opportunities that enhance my skills and i'm open to making new connections.
-You can always connect with me on LinkedIn:https://www.linkedin.com/in/mardiyyah-taofeek-1045a8215/  
+You can always connect with me on LinkedIn:[Mardiyyah](https://www.linkedin.com/in/mardiyyah-taofeek-1045a8215/) 
