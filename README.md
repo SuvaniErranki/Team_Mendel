@@ -15,3 +15,11 @@ We are a team of 10 people from different parts of the world met here for the in
 I am a postgraduate from India, pursuing my Masters in Bioinformatics from University of Hyderabad. My interest is in Drug discovery & development, molecular biology, market research, etc.
 
 I love making meaningful connections as I strongly believe in networking. So you can connect with me on LinkedIn:[Suvani](https://www.linkedin.com/in/sai-suvani-erranki-095954156/ )
+
+
+#### 2. Shruti Chowdhury
+
+![PicsArt_04-11-04 25 47](https://user-images.githubusercontent.com/92269847/137529748-3de8d2f9-7f76-4655-b589-3596c782c48f.jpg)
+
+
+I recently graduated from the University of Calcutta in India with a Master's in Zoology and am very keen to develop my skill set in Bioinformatics. I am interested in Molecular Biology, Disease Biology, Cardiology, Endocrinology and Immunology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shruti-chowdhury-8b876921a).
