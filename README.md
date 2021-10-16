@@ -32,3 +32,9 @@ I recently graduated from the University of Calcutta in India with a Master's in
 
 I'm currently a Cell Biology and Genetics student from the University of Lagos, Nigeria. My areas of interest are in Molecular Biology, Genetics and Bioinformatics. I love to take up all learning opportunities that enhance my skills and i'm open to making new connections.
 You can always connect with me on LinkedIn:[Mardiyyah](https://www.linkedin.com/in/mardiyyah-taofeek-1045a8215/) 
+
+### 4. Surya P Sharma
+![IMG_20201024_214853_2](https://user-images.githubusercontent.com/45768049/137595875-d9e6613b-431b-43a0-a228-d546fc141ec2.jpg)
+
+I am a biotechnology graduate, currently perusing doctoral degree in Wildlife Science at Wildlife Institute of India, India. My current research includes developing a baseline for genetic monitoring of these species and formulating scientific-based conservation measures to aid in the recovery of these populations in India based on mitochondrial DNA and nuclear microsatellite loci. I am interested in understanding these species evolutionary aspects through genomics.
+You can visit my research profile https://www.researchgate.net/profile/Surya-Sharma 
