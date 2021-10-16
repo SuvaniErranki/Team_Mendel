@@ -23,3 +23,12 @@ I love making meaningful connections as I strongly believe in networking. So you
 
 
 I recently graduated from the University of Calcutta in India with a Master's in Zoology and am very keen to develop my skill set in Bioinformatics. I am interested in Molecular Biology, Disease Biology, Cardiology, Endocrinology and Immunology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shruti-chowdhury-8b876921a).
+
+
+### 3. Taofeek Mardiyyah
+
+https://user-images.githubusercontent.com/92341910/137557251-c4a98233-4651-4347-8f36-f3b20cb9e4c3.png
+
+
+I'm currently a Cell Biology and Genetics student from the University of Lagos, Nigeria. My areas of interest are in Molecular Biology, Genetics and Bioinformatics. I love to take up all learning opportunities that enhance my skills and i'm open to making new connections.
+You can always connect with me on LinkedIn:[Mardiyyah](https://www.linkedin.com/in/mardiyyah-taofeek-1045a8215/) 
