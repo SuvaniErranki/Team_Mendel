@@ -36,5 +36,5 @@ You can always connect with me on LinkedIn:[Mardiyyah](https://www.linkedin.com/
 ### 4. Surya P Sharma
 ![IMG_20201024_214853_2](https://user-images.githubusercontent.com/45768049/137595875-d9e6613b-431b-43a0-a228-d546fc141ec2.jpg)
 
-I am a biotechnology graduate, currently perusing doctoral degree in Wildlife Science at Wildlife Institute of India, India. My current research includes developing a baseline for genetic monitoring of these species and formulating scientific-based conservation measures to aid in the recovery of these populations in India based on mitochondrial DNA and nuclear microsatellite loci. I am interested in understanding these species evolutionary aspects through genomics.
+I am a biotechnology graduate currently pursuing a doctoral degree in Wildlife Science at Wildlife Institute of India, India. My current research includes developing a baseline for genetic monitoring of these species and formulating scientific-based conservation measures to aid in the recovery of these populations in India based on mitochondrial DNA and nuclear microsatellite loci. I am interested in understanding these species evolutionary aspects through genomics.
 You can visit my research profile https://www.researchgate.net/profile/Surya-Sharma 
